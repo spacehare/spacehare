@@ -1,2 +1,2 @@
-hare.itch.io
-twitter.com/speedbunslive
+https://hare.itch.io/  
+https://twitter.com/speedbunslive
